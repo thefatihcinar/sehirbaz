@@ -49,4 +49,10 @@ Uygulama TAMAMEN ONLINEdır. <br>
 
 <br>
 
-<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P1.png?raw=true">
+<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P1.png?raw=true" width="685" height="339">
+<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P2.png?raw=true" width="685" height="339">
+<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P3.png?raw=true" width="685" height="339">
+<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P4.png?raw=true" width="685" height="339">
+<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P5.png?raw=true" width="685" height="339">
+<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P6.png?raw=true" width="685" height="339">
+<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P7.png?raw=true" width="685" height="339">
