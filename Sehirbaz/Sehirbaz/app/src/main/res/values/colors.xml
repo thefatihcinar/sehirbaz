@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="newTrueWhite">#ffffff</color>
+    <color name="newGreatBlue">#0787ff</color>
+
+    <color name="newGrayishBlack">#2d2b2b</color>
+    <color name="newPurple">#f5320a54</color>
+    <color name="newRed">#df0909</color>
+
+
+    <color name="waitingYellow">#faee00</color>
+    <color name="rightAnswerGreen">#14d412</color>
+    <color name="wrongAnswerRed">#ea2923</color>
+
+    <color name="newBlack">#000000</color>
+
+
+    <color name="temp">#ffea00</color>
+
+    <color name="gameOverBackground">#01020A</color>
+
+    <color name="winScreenBackground">#313348</color>
+
+
+
+</resources>

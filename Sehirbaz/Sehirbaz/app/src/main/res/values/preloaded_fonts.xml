@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/coda</item>
+        <item>@font/faster_one</item>
+        <item>@font/jacques_francois_shadow</item>
+        <item>@font/marko_one</item>
+        <item>@font/monoton</item>
+        <item>@font/nosifer</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/rubik_mono_one</item>
+        <item>@font/sarpanch</item>
+        <item>@font/viga</item>
+    </array>
+</resources>
