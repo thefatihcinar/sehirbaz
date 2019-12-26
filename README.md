@@ -19,3 +19,34 @@ __Systems Used__:
   All the images are stored in the cloud in the Firebase Storage servers
 + __Picasso Library__<br>
   The cities are shown to the user from an URL, No image is stored in the device. 
+
+<br>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" width="60" height="40">
+ 
+ ### Şehirbaz
+ 
+| __Title__        | __Language__           | __Source__  | __APK FILE__   |  __Google Play Link__ |
+| :-------------: |:-------------:| :-----:|  :-----:| :-----:|
+| Şehirbaz  | `Java` | [Link](https://github.com/fatihcinar1/sehirbaz/tree/master/Sehirbaz/Sehirbaz) |  [APK](https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/APK/sehirbaz-v4.apk) | - | 
+ 
+ __Açıklama__: "Şehirbaz" bir şehir tahmin etme oyunudur. Oyunun içerisinde oyuncuya dünyanın herhangi bir yerinden rastgele bir resim gösterilir ve oyuncunun bu şehri tahmin etmesi beklenir. <br>
+Oyuncular şehirleri tahmin ederken harika zaman geçirirler ve aynı zamanda genel kültür becelerileri kazanırlar.<br>
+Her yaştan insanın zevkle oynayabileceği bir oyundur Şehirbaz.<br>
+Veritabanında en az 1000 tane şehir bulunmaktadır. <br>
+Uygulama TAMAMEN ONLINEdır. <br>
+ __Kullanılan Sistemler__: 
++ __Firebase Realtime Database__ <br>
+  Bütün şehirler yani sorular Firebase Gerçekzamanlı Veritabanında depolanır ve uygulama başlar başlamaz algoritma bütün soruları uygulamaya anında yükler. Cihazda soru tutulmaz. Veritabanına yeni şehirler eklendikçe uygulamanın güncellenmesine gerek kalmaz.
++ __Firebase Storage__ <br>
+  Bütün resimler Firebase Depolama hizmetinin sunucularında tutulur.
++ __Picasso Library__<br>
+  Oyuncuya sorulan şehirler cihazda depolanmadığı için, Firebase sunucularından oyuncuya yayınlanır(streaming).
+
+<br>
+
+[<img src="https://www.xda-developers.com/files/2017/01/Google-Play-Store-Feature-Image-XDA-Portal-Red.png" width="330" height="220">](http://google.com.au/)
+
+
+<br>
+
+<img src="https://github.com/fatihcinar1/sehirbaz/blob/master/Sehirbaz/Images/P1.png?raw=true">
